@@ -3,7 +3,7 @@
 **Third-year CS student (B.E. 2028) • AI Software Engineer • Building production-shaped AI systems**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/lathisskhumar)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?logo=gmail&logoColor=white)](mailto:pklathisskhumar.cse2024@citchennai.net)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?logo=maildotru&logoColor=white)](mailto:pklathisskhumar.cse2024@citchennai.net)
 [![LeetCode](https://img.shields.io/badge/LeetCode-650%2B-F5A623?logo=leetcode&logoColor=white)](https://leetcode.com/LathissKhumar)
 [![Location](https://img.shields.io/badge/Chennai%2C_India-🇮🇳-000?logo=google-maps&logoColor=white)](#)
 
@@ -81,10 +81,14 @@ Contributed to a viral open-source AI content creation tool
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
-![LathissKhumar's GitHub stats](https://github-readme-stats.vercel.app/api?username=LathissKhumar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800)
+![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=LathissKhumar&theme=tokyo-night&hide_border=true&area=true)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LathissKhumar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LathissKhumar&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800)
+
+> **Note:** GitHub stats widgets may occasionally show placeholder images when the external services are temporarily unavailable. The contribution graph above is served from a separate service.
 
 ---
 
@@ -102,7 +106,7 @@ Contributed to a viral open-source AI content creation tool
 > **"Builder who pairs learned models with deterministic, verifiable reasoning"** — the failure mode that drives my work: systems that look healthy while producing nothing.
 
 [![LinkedIn](https://img.shields.io/badge/Message_on_LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/lathisskhumar)
-[![Email](https://img.shields.io/badge/Email_Me-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:pklathisskhumar.cse2024@citchennai.net)
+[![Email](https://img.shields.io/badge/Email_Me-D14836?logo=maildotru&logoColor=white&style=for-the-badge)](mailto:pklathisskhumar.cse2024@citchennai.net)
 
 ---
 
