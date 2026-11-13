@@ -4,7 +4,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/lathisskhumar)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?logo=gmail&logoColor=white)](mailto:pklathisskhumar.cse2024@citchennai.net)
-[![LeetCode](https://img.shields.io/badge/LeetCode-650%2B_F5A623?logo=leetcode&logoColor=white)](https://leetcode.com/LathissKhumar)
+[![LeetCode](https://img.shields.io/badge/LeetCode-650%2B-F5A623?logo=leetcode&logoColor=white)](https://leetcode.com/LathissKhumar)
 [![Location](https://img.shields.io/badge/Chennai%2C_India-🇮🇳-000?logo=google-maps&logoColor=white)](#)
 
 ---
@@ -28,12 +28,12 @@ Open to: **Remote • Relocation (Bengaluru, Hyderabad, Pune) • On-site**
 
 ## 🏗️ Featured Projects
 
-### 🤖 [AgencyOS](https://github.com/LathissKhumar/AgencyOS) — *Self-healing agentic AI platform*
+### 🤖 [AgencyOS](https://github.com/LathissKhumar/AgencyOS-) — *Self-healing agentic AI platform*
 **Multi-agent, event-driven platform** of 5 LangGraph-orchestrated microservices coordinated via **Agent-to-Agent (A2A) protocol**  
 Self-healing web-intelligence layer with deterministic health scoring + automated schema-drift diagnosis/repair  
 `Python` `LangGraph` `A2A Protocol` `FastAPI` `PostgreSQL` `Docker`
 
-### 📚 [RAG-Based Intelligent Document QA](https://github.com/LathissKhumar/RAG-Document-QA) — *Production RAG pipeline*
+### 📚 [RAG-Based Intelligent Document QA](https://github.com/LathissKhumar/RAG_PIPELINE) — *Production RAG pipeline*
 Semantic chunking • Async document ingestion • Scalable embedding generation  
 **Hybrid retrieval**: BM25 + dense vector + MiniLM cross-encoder reranking  
 Grounded, context-aware answers with evaluation harness  
@@ -45,7 +45,7 @@ Evidence-first pipeline: LLM extraction → deterministic ledger resolution
 **269-test offline-first validation suite**  
 `Python` `Databricks` `Graph DB` `LangGraph` `Testing`
 
-### 🏔️ [DepthWizard 2.0](https://github.com/LathissKhumar/DepthWizard-2.0) — *Single-view 3D reconstruction*
+### 🏔️ [DepthWizard](https://github.com/LathissKhumar/DepthWizard) — *Single-view 3D reconstruction*
 Depth Anything V3 backbone + physical solar-shadow verification  
 Calibrated uncertainty via **split conformal prediction**  
 GPU clipmap rendering for real-time terrain visualization  
@@ -83,8 +83,8 @@ Contributed to a viral open-source AI content creation tool
 
 ## 📊 GitHub Stats
 
-![LathissKhumar's GitHub stats](https://github-readme-stats.vercel.app/api?username=LathissKhumar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LathissKhumar&layout=compact&theme=tokyonight&hide_border=true)
+![LathissKhumar's GitHub stats](https://github-readme-stats.vercel.app/api?username=LathissKhumar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LathissKhumar&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800)
 
 ---
 
